@@ -4,6 +4,10 @@ This simple .NET standard 2.1 class library can be used to retrieve one way fare
 
 Inspired by: https://github.com/cohaolain/ryanair-py
 
+## Installation
+
+Install with the NuGet package: https://www.nuget.org/packages/RyanairApiLib
+
 ## Examples
 
 ```csharp
