@@ -1,6 +1,6 @@
 # RyanairApiLib
 
-This simple .NET standard 2.1 class library can be used to retrieve one way fares and round trips from the Ryanair API. This API does not require authentiation but has a rate limit.
+This simple .NET standard 2.1 class library can be used to retrieve one way fares and round trips from the Ryanair API. This API does not require authentication but has a rate limit.
 
 Inspired by: https://github.com/cohaolain/ryanair-py
 
